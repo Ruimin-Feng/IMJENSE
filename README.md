@@ -1,5 +1,5 @@
 # IMJENSE
-This repository contains the PyTorch implementations of our manuscript "[IMJENSE: scan-specific IMplicit representation for Joint coil sENSitivity and image Estimation in parallel MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10356136)"   
+This repository contains the PyTorch implementations of our paper "[IMJENSE: scan-specific IMplicit representation for Joint coil sENSitivity and image Estimation in parallel MRI](https://ieeexplore.ieee.org/abstract/document/10356136)"   
 IMJENSE was proposed by Ruimin Feng and Dr. Hongjiang Wei. It applies implicit neural representation to the parallel MRI reconstruction.  
 ## 1. Environmental Requirements  
 ### To run "run_demo.py" for reconstruction using IMJENSE with SIREN network, you should install:  
